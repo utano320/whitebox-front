@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+/* = body =========================================== *
+ * -------------------------------------------------- */
+body {
+  background-color: #fefae3;
+  font-size: 16px;
+  line-height: 1.5;
+  padding-bottom: 10rem;
+}
+
+/* = .icon-area ===================================== *
+ * -------------------------------------------------- */
+.icon-area {
+  margin-top: 5%;
+}
+.big-icon {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+.big-logo {
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+}
+.signup-submit {
+  display: block;
+  margin: 1rem auto;
+  width: 50%;
+  height: 3rem;
+  font-size: 1.2rem;
+  padding: 0 0.5rem;
+  border-radius: 1rem;
+  border: 1px solid #9a8e63;
+  background-color: #ffa9b9;
+}
+
+/* = .signin-area =================================== *
+ * -------------------------------------------------- */
+.signin-area {
+  margin-top: 5%;
+}
+.signin-id,
+.signin-pw,
+.signin-submit {
+  display: block;
+  margin: 1rem auto;
+  width: 50%;
+  height: 3rem;
+  font-size: 1.2rem;
+  padding: 0 0.5rem;
+  border-radius: 1rem;
+  border: 1px solid #9a8e63;
+}
+
+.signin-submit {
+  background-color: #ddf7f7;
+}
